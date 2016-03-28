@@ -1,0 +1,30 @@
+  body {
+      border: 1px solid #ff1254;
+        margin-top: 1%;
+        margin-left: 1%;
+        margin-right: 0.5%;
+        height: 1100px;
+          }
+  .imagenreniec{
+      width: 15%;
+      height: 10%;
+      float: left;   
+  }
+    .escudo{
+      width: 7%;
+      height: 3%;
+      float: right;   
+  }
+.titulo {
+    margin-left: 25%;
+    margin-top: 3%;
+    float: left;
+}
+.caja1{
+    border: 1px solid blue;
+    float: left;
+    width: 2%;
+    height: 19px;
+}
+
+
